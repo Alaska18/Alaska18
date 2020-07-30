@@ -5,8 +5,8 @@ they are pure love!
 
 <img src="http://images6.fanpop.com/image/photos/32600000/1D-Gifs-one-direction-32615616-500-225.gif">
 
-also also just love learning about algorithms and bits and bytes of entire computer systems.
+Also also I just love learning about algorithms and bits and bytes of entire computer systems.
 Also I am multilingual, I can speak Turkish, korean and Taiwannese apart from English, Hindi and Telugu. 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Here is What I do here!](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
