@@ -8,5 +8,5 @@ they are pure love!
 Also also I just love learning about algorithms and bits and bytes of entire computer systems.
 Also I am multilingual, I can speak Turkish, korean and Taiwannese apart from English, Hindi and Telugu. 
 
-[![Here is What I do here!](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Here is What I do here!](https://github-readme-stats.vercel.app/api?username=Alaska18)](https://github.com/anuraghazra/github-readme-stats)
 
