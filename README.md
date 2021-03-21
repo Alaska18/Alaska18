@@ -8,5 +8,6 @@ Also I am multilingual, I can speak Turkish, korean and Taiwannese apart from En
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaska18&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 
-Want to know me proffesionally ?
+
+My personal Email Id : Feel free to drop an email regarding anything. I am always up for an interesting talk :)
 afshanahmed18@gmail.com
