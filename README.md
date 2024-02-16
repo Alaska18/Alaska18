@@ -1,5 +1,5 @@
 ## Hey there!
-I am Afshan. i call myslef software engineer! 
+I am Afshan. I call myself software engineer! 
 
 [![Here is What I do here!](https://github-readme-stats.vercel.app/api?username=Alaska18&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaska18&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
