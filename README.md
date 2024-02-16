@@ -1,11 +1,6 @@
 ## Hey there!
-I am Afshan. I am a 3rd year Undergraduate Student at rvce, bangalore. and I am really gooofyyyyyy!:0
+I am Afshan. i call myslef software engineer! 
 
-for I like coding {
- 
- fmt.Println("I will keep contributing")
-
-}
 [![Here is What I do here!](https://github-readme-stats.vercel.app/api?username=Alaska18&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alaska18&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
